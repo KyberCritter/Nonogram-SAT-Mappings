@@ -89,3 +89,6 @@ n*m: pass/total, average brute-force attempts per puzzle, runtime
 - 3*3: 512/512, 20.6, 0.24s
 - 3*4: 4096/4096, 108.9, 7.6s
 - 4*4: 65535/65535, 2448.6, 3354.5s
+
+The heuristic method is not always capable of extending a partially complete clue based on the cells that are already filled. I estimate that another 30% of the heuristically unsolved puzzles could be solved heuristically with this change.
+The heuristic method performs best when the clues permit trivial solving of clues. Small puzzle dimensions also increase the probability of success greatly. These reasons are elaborated upon in the paper.
