@@ -1,6 +1,8 @@
 # Nonogram-SAT-Mappings
 
-Included files:
+For an explanation of the purpose of this project, read the included paper, "Exploring the NPC Space with Nonograms".
+
+Included code files:
 - nonogram.py
 - sat.py
 - sat_to_nonogram.py
