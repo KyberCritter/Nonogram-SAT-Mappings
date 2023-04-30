@@ -1,0 +1,18 @@
+# Author and Problem Description
+5 5 (x and y lengths)
+1 2 3 (first x clue)
+1 2 3 
+1 2 3 
+1 2 3 
+1 2 3 (last x clue)
+3 2 1 (first y clue)
+3 2 1 
+3 2 1 
+3 2 1 
+3 2 1 (last y clue)
+1 0 0 0 0 (first row of solution)
+0 1 0 0 0 
+0 0 1 0 0 
+0 0 0 1 0 
+0 0 0 0 1 (last row of solution)
+(trailing newline)
