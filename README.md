@@ -1,4 +1,5 @@
 # Nonogram-SAT-Mappings
+This project is incomplete for the purposes of mathematical proofs and Nonogram solving. It was sufficient for my coursework, which did not require either of those in their entirety.
 
 For an explanation of the purpose of this project, read the included paper, "Exploring the NPC Space with Nonograms".
 
