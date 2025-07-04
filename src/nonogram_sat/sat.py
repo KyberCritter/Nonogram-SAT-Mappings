@@ -1,6 +1,8 @@
-# Scott Ratchford 2023.04.29
+# Scott Ratchford 2025.07.03
+
 import math
 from nonogram import *
+
 
 class Clause:
     def __init__(self, terms):

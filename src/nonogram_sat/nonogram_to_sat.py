@@ -1,9 +1,11 @@
-# Scott Ratchford 2023.04.29
+# Scott Ratchford 2025.07.03
+
 import math
 import numpy as np
 from nonogram import *
 from sat import *
 import os
+
 
 def generateClue(line):
     # https://stackoverflow.com/questions/34443946/count-consecutive-characters
